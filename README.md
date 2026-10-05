@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a9d7ce87-1795-4176-91a5-73148228a22f.jpeg?v=1791187481)](https://www.boot.dev/certificates/a9d7ce87-1795-4176-91a5-73148228a22f)
 
 <!--
 **murad-abdullayev/murad-abdullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
